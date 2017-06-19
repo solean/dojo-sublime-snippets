@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[define([
+  'dojo/_base/declare',
+  $1
+], function(declare) {
+  return declare([], {
+
+  });
+});]]></content>
+	<tabTrigger>define</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

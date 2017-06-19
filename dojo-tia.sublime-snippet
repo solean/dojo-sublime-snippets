@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[this.inherited(arguments);
+$1]]></content>
+	<tabTrigger>tia</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[data-dojo-props="$1"]]></content>
+	<tabTrigger>ddp</tabTrigger>
+</snippet>
