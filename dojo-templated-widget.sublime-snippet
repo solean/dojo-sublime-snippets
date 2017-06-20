@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[define([
+  'dojo/_base/declare',
+  'dijit/_WidgetBase',
+  'dijit/_TemplatedMixin',
+  'dijit/_WidgetsInTemplateMixin',
+  'dojo/text!$1'
+], function(declare, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin,
+            template) {
+
+  return declare($2[_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
+    templateString: template,
+
+    $3
+  });
+});
+]]></content>
+	<tabTrigger>tempwidget</tabTrigger>
+</snippet>
