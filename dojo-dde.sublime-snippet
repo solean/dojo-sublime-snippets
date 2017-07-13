@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[data-dojo-attach-event="$1"]]></content>
+  <tabTrigger>dde</tabTrigger>
+</snippet>
+
